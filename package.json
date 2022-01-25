@@ -1,10 +1,11 @@
 {
-  "author": "Dmitry Prokashev <heliosframework@gmail.com>",
-  "name": "jailed",
-  "description": "execute untrusted code with custom permissions",
+  "author": "Asaf Ventura <asaf.ventura@coralogix.com>",
+  "name": "ngx-jailed",
+  "description": "Execute untrusted code with custom permissions - Compatible with Angular.",
   "version": "0.3.1",
   "keywords": [
     "jailed",
+    "Angular",
     "isomorphic",
     "sandbox",
     "export",
@@ -22,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/asvd/jailed.git"
+    "url": "git://github.com/venturaCoralogix/ngx-jailed.git"
   },
   "browser":
     {
